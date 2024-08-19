@@ -9,9 +9,13 @@ The Image Collage Generator is a Python-based project designed to create collage
 4)  Customization: The project allows for customization in terms of the number of images, their arrangement, and the final dimensions of the collage.
 
 ### Technologies Used:
+
 Python: The primary programming language used.
-K-Means Clustering: An unsupervised machine learning technique designed to group unlabeled examples based on their similarity to each other. 
+
+K-Means Clustering: An unsupervised machine learning technique designed to group unlabeled examples based on their similarity to each other.
+
 OpenCV: A computer vision library used for image processing.
+
 Numpy: Used for efficient numerical operations on image data.
 
 ![dcba21f7-115a-4aee-8088-a9a890cc7e51](https://github.com/user-attachments/assets/c6d85f05-5398-499e-90c9-fa1093044f99)
